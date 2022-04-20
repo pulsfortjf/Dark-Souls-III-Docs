@@ -21,7 +21,7 @@ Dark Souls III is not known for its user-friendly approach to learning the game.
 
 Where do I go after ____?
 
-One of the most common questions new players have is where to go after beating the area they are currently in. Every area in Dark Souls III ends with a major boss fight. In most cases, after defeating the current boss, a pathway to the next area appears near the player. However sometimes that path is difficult to find, so for those cases, the Dark Souls III wiki is the easiest way to find out where to go next.
+One of the most common questions new players have is where to go after beating the area they are currently in. Every area in Dark Souls III ends with a major boss fight. In most cases, after defeating the current boss, a pathway to the next area appears near the player. However sometimes that path is difficult to find, so for those cases, the Dark Souls III [wiki](https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki) is the easiest way to find out where to go next.
 
 Is there any way to keep my souls when I die?
 
@@ -30,8 +30,8 @@ In Dark Souls III, souls are the currency as well as the way you level up your c
 
 ### Bugs and Glitches
 
-Sadly, the Dark Souls III wiki itself does not contain a dedicated bugs and glitches section, but the wiki forums and a detailed video containing all known bugs and glitches are good places to start.
+Sadly, the Dark Souls III wiki itself does not contain a dedicated bugs and glitches section, but the wiki [forums](https://fextralife.com/forums/f83/dark-souls-iii/) and a detailed [video](https://www.youtube.com/watch?v=LdADqaS0ofY) containing all known bugs and glitches are good places to start.
 
 ### Contact
 
-FromSoftware’s support page can be found here and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page here and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
+FromSoftware’s support page can be found [here](https://www.fromsoftware.jp/ww/faq-games.html#sec_097) and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page [here](https://support.bandainamcoent.com/hc/en-us/categories/360001777012-Dark-Souls-3-Fire-Fades-Edition) and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
