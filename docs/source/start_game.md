@@ -21,3 +21,5 @@ The tutorial area has only one bonfire since it is so small, and you can rest th
 After defeating the first boss, Iudex Gundyr, you will head through the door opposite the way you came in and take a short walk to the Firelink Shrine. This is the main hub of the game and where you come to level up, upgrade your gear, and interact with the many npcs you encounter along the way that come to the Firelink Shrine. From here your first playthrough of Dark Souls III begins!
 
 A more in depth guide for new players can be found on the wiki [here](https://darksouls3.wiki.fextralife.com/New+Player+Help).
+
+[Back to Main](main_page.md)
