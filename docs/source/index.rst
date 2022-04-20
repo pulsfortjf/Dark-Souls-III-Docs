@@ -1,6 +1,9 @@
-##### Dark Souls III
+**Dark Souls III**
 
-# Main
+Main
+===================
+
+*“And the Unkindled will rise. Nameless, accursed Undead, unfit even to be cinder. And so it is, that ash seeketh embers.”*
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
