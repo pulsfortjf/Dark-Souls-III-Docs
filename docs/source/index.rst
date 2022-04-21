@@ -10,6 +10,14 @@ What is Dark Souls III?
 
 Dark Souls III is a fantasy action based RPG created by the Japanese development studio FromSoftware and published in the US by Bandai Namco. FromSoftware is known for producing extremely challenging games that force the player to learn through a trial by fire system. The Dark Souls series in particular is their most well known series and features a rich storyline that drives the player’s actions throughout their journey.
 
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
+
 Download
 ***********************
 
@@ -41,11 +49,3 @@ Contact
 ***********************
 
 FromSoftware’s support page can be found here and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page here and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
