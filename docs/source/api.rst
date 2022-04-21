@@ -1,3 +1,12 @@
+API
+===
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
+
+
 Starting the Game
 ==========
 
