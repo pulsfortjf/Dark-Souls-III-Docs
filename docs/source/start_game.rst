@@ -12,7 +12,7 @@ When you launch Dark Souls III you will be taken to the main menu screen. From h
 .. image:: images/intro_cutscene_2.jpg
     :width: 2560px
     :align: center
-    :height: 1080px
+    :height: 900px
     :alt: alternate text
 
 Next you are able to create your character. The game has 10 classes that the player can choose from, all of which have their own unique skill point distributions. No matter which class you choose, if you find you want to try a different playstyle, you can always allocate your skill points differently as you level up so ultimately your starting class is not too important.
