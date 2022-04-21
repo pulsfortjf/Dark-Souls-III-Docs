@@ -15,7 +15,6 @@ Contents
 
 .. toctree::
 
-   usage
    install
    start_game
 
