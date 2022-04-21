@@ -1,4 +1,4 @@
-Usage
+Download
 =====
 
 .. _installation:
@@ -6,29 +6,9 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Dark Souls III is available on PlayStation4, Xbox One, and PC.
 
-.. code-block:: console
+It can be purchased and downloaded for $59.99 from either the PlayStation Store, the Microsoft Store, or Steam depending on the platform the user chooses.
 
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+All three of these stores have their own downloading and installation services which handle the downloading and installation of the game for the user. Simply create an account on your platform of choice, purchase the game, and click the Install button to install the game.
 
