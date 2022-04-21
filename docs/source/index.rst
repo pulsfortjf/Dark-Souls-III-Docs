@@ -16,7 +16,7 @@ Contents
 .. toctree::
 
    usage
-   api
+   starting the game
 
 Download
 ***********************
