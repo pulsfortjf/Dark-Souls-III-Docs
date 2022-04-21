@@ -5,7 +5,7 @@ Before beginning your first playthrough of Dark Souls III there is some importan
 
 1. This game is extremely difficult. You will fail. You will die. You will lose all your souls over and over. All of this is part of the challenge and part of the experience. Do not give up.
 2. A controller, such as a Dualshock controller, an Xbox One controller, or a Nintendo Switch Pro controller, is not inherently required to play the game, but Dark Souls games are built primarily for consoles and thus are best played using a controller. If the user is on a PC, playing on mouse and keyboard is strongly discouraged as it will make the game much more difficult and frustrating.
-3. Dark Souls III can be confusing at times but generally has a fairly linear progression through each of the areas. So if you feel stuck or if you think there is nowhere to progress from the current area, you may be in the wrong location. When in doubt, consult the [wiki](https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki).
+3. Dark Souls III can be confusing at times but generally has a fairly linear progression through each of the areas. So if you feel stuck or if you think there is nowhere to progress from the current area, you may be in the wrong location. When in doubt, consult the `wiki <https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki>`_.
 
 When you launch Dark Souls III you will be taken to the main menu screen. From here, press the New Game button. This will take you through a short introductory cutscene which provides some of the backstory to the game.
 
@@ -21,6 +21,4 @@ The tutorial area has only one bonfire since it is so small, and you can rest th
 
 After defeating the first boss, Iudex Gundyr, you will head through the door opposite the way you came in and take a short walk to the Firelink Shrine. This is the main hub of the game and where you come to level up, upgrade your gear, and interact with the many npcs you encounter along the way that come to the Firelink Shrine. From here your first playthrough of Dark Souls III begins!
 
-A more in depth guide for new players can be found on the wiki [here](https://darksouls3.wiki.fextralife.com/New+Player+Help).
-
-maybe adding something will fix it
+A more in depth guide for new players can be found on the wiki `here <https://darksouls3.wiki.fextralife.com/New+Player+Help>`_.
