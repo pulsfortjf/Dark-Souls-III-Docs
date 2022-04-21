@@ -10,7 +10,7 @@ Before beginning your first playthrough of Dark Souls III there is some importan
 When you launch Dark Souls III you will be taken to the main menu screen. From here, press the New Game button. This will take you through a short introductory cutscene which provides some of the backstory to the game.
 
 .. image:: images/intro_cutscene_2.jpg
-    :width: 1920px
+    :width: 1024px
     :align: center
     :height: 768px
     :alt: alternate text
