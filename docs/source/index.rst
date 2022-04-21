@@ -44,9 +44,9 @@ In Dark Souls III, souls are the currency as well as the way you level up your c
 Bugs and Glitches
 ***********************
 
-Sadly, the Dark Souls III wiki itself does not contain a dedicated bugs and glitches section, but the wiki forums and a detailed video containing all known bugs and glitches are good places to start.
+Sadly, the Dark Souls III wiki itself does not contain a dedicated bugs and glitches section, but the wiki `forums <https://fextralife.com/forums/f83/dark-souls-iii/>`_ and a detailed `video <https://www.youtube.com/watch?v=LdADqaS0ofY>`_ containing all known bugs and glitches are good places to start.
 
 Contact
 ***********************
 
-FromSoftware’s support page can be found here and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page here and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
+FromSoftware’s support page can be found `here <https://www.fromsoftware.jp/ww/faq-games.html#sec_097>`_ and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page `here <https://support.bandainamcoent.com/hc/en-us/categories/360001777012-Dark-Souls-3-Fire-Fades-Edition>`_ and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
