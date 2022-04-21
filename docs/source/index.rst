@@ -41,20 +41,3 @@ Contact
 ***********************
 
 FromSoftware’s support page can be found here and it contains a detailed FAQ that can answer many user questions. If the answer to the question is not on the FAQ, FromSoftware only takes support inquiries in Japanese, but the user can go to Bandai Namco’s support page here and enter their questions into the search bar, or click the “Submit A Ticket” button and create an account to send a question or request directly to Bandai Namco.
-
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
-   start_game
