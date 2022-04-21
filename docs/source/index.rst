@@ -19,7 +19,7 @@ Dark Souls III is a fantasy action based RPG created by the Japanese development
 Download
 ***********************
 
-To download Dark Souls III see the Installation page.
+For instructions on how to download Dark Souls III, see the Installation page.
 
 Your First Playthrough
 ***********************
