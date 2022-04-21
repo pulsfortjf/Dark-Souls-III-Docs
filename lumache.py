@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Dark Souls III - A fantasy action RPG
 """
 
 __version__ = "0.1.0"
