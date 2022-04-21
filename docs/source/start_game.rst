@@ -9,6 +9,12 @@ Before beginning your first playthrough of Dark Souls III there is some importan
 
 When you launch Dark Souls III you will be taken to the main menu screen. From here, press the New Game button. This will take you through a short introductory cutscene which provides some of the backstory to the game.
 
+.. image:: intro_cutscene_2.jpg
+    :width: 1920px
+    :align: center
+    :height: 1080px
+    :alt: alternate text
+
 Next you are able to create your character. The game has 10 classes that the player can choose from, all of which have their own unique skill point distributions. No matter which class you choose, if you find you want to try a different playstyle, you can always allocate your skill points differently as you level up so ultimately your starting class is not too important.
 
 The aesthetics of your character do not have an impact on gameplay and thus you can customize your character to your heart’s content.
