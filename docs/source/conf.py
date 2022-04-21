@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Dark Souls III Docs'
+copyright = '2022, Jack Pulsfort'
+author = 'Jack Pulsfort'
 
 release = '0.1'
 version = '0.1.0'
