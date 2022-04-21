@@ -19,12 +19,36 @@ Next you are able to create your character. The game has 10 classes that the pla
 
 The aesthetics of your character do not have an impact on gameplay and thus you can customize your character to your heart’s content.
 
+.. image:: images/char_creation.jpg
+    :width: 800px
+    :align: center
+    :height: 500px
+    :alt: character_creation
+
 Once your character is ready and named, you will see another short cutscene and then you will load into the tutorial area and begin your playthrough. On the ground are several useful messages that detail how to move, attack, block, parry, and all the other skills you will need to learn to play Dark Souls III.
 
 The game has checkpoints throughout each area known as Bonfires. Resting at a bonfire saves that bonfire as a respawn point for when you die and it restores your Health and Focus Points and clears any negative status effects you may have. Resting also respawns all the regular enemies in the area which adds to the challenge.
 
+.. image:: images/first_bonfire.jpg
+    :width: 800px
+    :align: center
+    :height: 500px
+    :alt: first_bonfire
+
 The tutorial area has only one bonfire since it is so small, and you can rest there as many times as you need to feel comfortable with the game. Once you are ready, you can make your way through the large archway at the end of the tutorial area and begin your first boss fight by interacting with the statue you find there. If you do not beat the boss on your first try you will respawn at the bonfire and you can try again by interacting with the large fog wall that is now under the archway. All the boss fights in the game are separated from the rest of the dungeon by a large fog wall which is how you know if you are entering a boss fight.
 
+.. image:: images/first_boss.jpg
+    :width: 800px
+    :align: center
+    :height: 500px
+    :alt: intro_cutscene
+
 After defeating the first boss, Iudex Gundyr, you will head through the door opposite the way you came in and take a short walk to the Firelink Shrine. This is the main hub of the game and where you come to level up, upgrade your gear, and interact with the many npcs you encounter along the way that come to the Firelink Shrine. From here your first playthrough of Dark Souls III begins!
+
+.. image:: images/path_to_firelink.jpg
+    :width: 800px
+    :align: center
+    :height: 500px
+    :alt: intro_cutscene
 
 A more in depth guide for new players can be found on the wiki `here <https://darksouls3.wiki.fextralife.com/New+Player+Help>`_.
