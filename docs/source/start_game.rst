@@ -1,6 +1,6 @@
 .. _start:
 
-Starting the Game 
+Starting the Game
 ===============
 
 Before beginning your first playthrough of Dark Souls III there is some important information that the player should know.
