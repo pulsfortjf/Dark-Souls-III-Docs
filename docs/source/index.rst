@@ -7,7 +7,7 @@ Main
 
 *“And the Unkindled will rise. Nameless, accursed Undead, unfit even to be cinder. And so it is, that ash seeketh embers.”*
 
-What is Dark Souls III?
+What is Dark Souls III? 
 ***********************
 
 Dark Souls III is a fantasy action based RPG created by the Japanese development studio FromSoftware and published in the US by Bandai Namco. FromSoftware is known for producing extremely challenging games that force the player to learn through a trial by fire system. The Dark Souls series in particular is their most well known series and features a rich storyline that drives the player’s actions throughout their journey.
