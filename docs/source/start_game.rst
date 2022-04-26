@@ -3,7 +3,7 @@
 Starting the Game
 ===============
 
-Before beginning your f irst playthrough of Dark Souls III there is some important information that the player should know.
+Before beginning your first playthrough of Dark Souls III there is some important information that the player should know.
 
 1. This game is extremely difficult. You will fail. You will die. You will lose all your souls over and over. All of this is part of the challenge and part of the experience. Do not give up.
 2. A controller, such as a Dualshock controller, an Xbox One controller, or a Nintendo Switch Pro controller, is not inherently required to play the game, but Dark Souls games are built primarily for consoles and thus are best played using a controller. If the user is on a PC, playing on mouse and keyboard is strongly discouraged as it will make the game much more difficult and frustrating.
