@@ -1,6 +1,6 @@
 **Dark Souls III**
 
-.. _main_page:
+.. _main:
 
 Main
 ===================
