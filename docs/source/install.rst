@@ -1,6 +1,6 @@
 .. _install:
 
-Installation 
+Installation
 =============
 
 Dark Souls III is available on PlayStation4, Xbox One, and PC.
