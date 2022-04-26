@@ -5,7 +5,7 @@
 Main
 ===================
 
-*“And the Unkindled will rise. Nameless, accursed Undead, unfit even to be cinder. And so it is, that ash seeketh embers.”*
+*“And the Unkindled will rise. Nameless, accursed Undead, unfit even to be cinder. And so it is, that ash seeketh embers.”* 
 
 .. image:: images/ds3_cover_art.jpg
     :width: 800px
