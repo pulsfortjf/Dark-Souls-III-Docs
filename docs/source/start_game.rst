@@ -55,4 +55,4 @@ After defeating the first boss, Iudex Gundyr, you will head through the door opp
 |
 A more in depth guide for new players can be found on the wiki `here <https://darksouls3.wiki.fextralife.com/New+Player+Help>`_.
 
-Back to :ref:`main_page`
+Back to :ref:`main`
