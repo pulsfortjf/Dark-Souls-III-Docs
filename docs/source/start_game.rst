@@ -1,3 +1,5 @@
+.. _start:
+
 Starting the Game
 ===============
 
@@ -52,3 +54,5 @@ After defeating the first boss, Iudex Gundyr, you will head through the door opp
     :alt: intro_cutscene
 |
 A more in depth guide for new players can be found on the wiki `here <https://darksouls3.wiki.fextralife.com/New+Player+Help>`_.
+
+Back to :ref:`main`
