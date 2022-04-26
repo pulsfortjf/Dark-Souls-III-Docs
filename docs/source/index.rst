@@ -1,6 +1,6 @@
 **Dark Souls III**
 
-.. _main:
+.. _index:
 
 Main
 ===================
@@ -26,14 +26,14 @@ For instructions on how to download Dark Souls III, see the Installation page.
 Your First Playthrough
 ***********************
 
-Dark Souls III is not known for its user-friendly approach to learning the game. You begin by creating your character and then are abruptly shoved into the first boss fight of the game after a very short tutorial area. More information on starting the game can be found within the Starting the Game page.
+Dark Souls III is not known for its user-friendly approach to learning the game. You begin by creating your character and then are abruptly shoved into the first boss fight of the game after a very short tutorial area. More information on starting the game can be found within the :ref:`start` page.
 
 FAQ
 ***********************
 
-Where do I go after ____?
+Where do I go after beating the first boss?
 
-One of the most common questions new players have is where to go after beating the area they are currently in. Every area in Dark Souls III ends with a major boss fight. In most cases, after defeating the current boss, a pathway to the next area appears near the player. However sometimes that path is difficult to find, so for those cases, the Dark Souls III `wiki <https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki>`_ is the easiest way to find out where to go next.
+One of the most common questions new players have is where to go after beating the area they are currently in. Every area in Dark Souls III ends with a major boss fight. In most cases, after defeating the current boss, a pathway to the next area appears near the player. In this case the path foward is the door opposite the way that the player entered the boss fight. However sometimes that path is difficult to find, so for those cases, the Dark Souls III `wiki <https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki>`_ is the easiest way to find out where to go next.
 
 Is there any way to keep my souls when I die?
 
