@@ -1,7 +1,5 @@
 **Dark Souls III**
 
-.. _index:
-
 Main
 ===================
 
@@ -26,7 +24,7 @@ For instructions on how to download Dark Souls III, see the Installation page.
 Your First Playthrough
 ***********************
 
-Dark Souls III is not known for its user-friendly approach to learning the game. You begin by creating your character and then are abruptly shoved into the first boss fight of the game after a very short tutorial area. More information on starting the game can be found within the :ref:`start` page.
+Dark Souls III is not known for its user-friendly approach to learning the game. You begin by creating your character and then are abruptly shoved into the first boss fight of the game after a very short tutorial area. More information on starting the game can be found within the Starting the Game page.
 
 FAQ
 ***********************
