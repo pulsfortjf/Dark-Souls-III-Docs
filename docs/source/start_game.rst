@@ -9,6 +9,8 @@ Before beginning your first playthrough of Dark Souls III there is some importan
 2. A controller, such as a Dualshock controller, an Xbox One controller, or a Nintendo Switch Pro controller, is not inherently required to play the game, but Dark Souls games are built primarily for consoles and thus are best played using a controller. If the user is on a PC, playing on mouse and keyboard is strongly discouraged as it will make the game much more difficult and frustrating.
 3. Dark Souls III can be confusing at times but generally has a fairly linear progression through each of the areas. So if you feel stuck or if you think there is nowhere to progress from the current area, you may be in the wrong location. When in doubt, consult the `wiki <https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki>`_.
 
+#### First Steps
+
 When you launch Dark Souls III you will be taken to the main menu screen. From here, press the New Game button. This will take you through a short introductory cutscene which provides some of the backstory to the game.
 
 .. image:: images/intro_cutscene_2.jpg
